@@ -13,7 +13,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by: kathiravan
+#Developed by: thrikeswar P
 #RegisterNumber:212222230162
 import numpy as np
 a=np.array([[2,2],[1,3]])
